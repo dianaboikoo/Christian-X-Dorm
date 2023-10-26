@@ -1,0 +1,284 @@
+.events {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  
+  .events .button {
+    position: absolute;
+    width: 252px;
+  height: 73px;
+  top: 1066px;
+  left: 285px;
+  }
+  
+  .events .overlap-group {
+    position: relative;
+    width: 250px;
+    height: 73px;
+    background-color: #132b82;
+    border-radius: 50px;
+  }
+  
+  .events .create-event {
+    position: absolute;
+    width: 587px;
+    top: 21px;
+    left: 31px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .events .frame {
+    position: absolute;
+    width: 656px;
+    height: 262px;
+    top: 199px;
+    left: 82px;
+  }
+  
+  .events .card {
+    height: 262px;
+  }
+  
+  .events .overlap-group-2 {
+    position: relative;
+    width: 656px;
+    height: 262px;
+  }
+  
+  .events .frame-2 {
+    display: flex;
+    flex-direction: column;
+    width: 332px;
+    height: 218px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 22px;
+    padding: 22px 36px 22px 22px;
+    position: absolute;
+    top: 0;
+    left: 324px;
+    background-color: #9da7cb;
+    border-radius: 0px 32px 32px 0px;
+  }
+  
+  .events .halloweenparty {
+    position: relative;
+    width: fit-content;
+    margin-top: -3.5px;
+    font-family: "Arial-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .events .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -2.5px;
+    margin-right: -81px;
+  }
+  
+  .events .text-wrapper {
+    width: 355px;
+    height: 53px;
+    margin-top: -1px;
+    font-family: "Arial-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 17px;
+    position: relative;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .events .p {
+    width: 308px;
+    height: 59px;
+    font-family: "Arial-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .events .div-2 {
+    width: 308px;
+    height: 26px;
+    font-family: "Arial-Bold", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    white-space: nowrap;
+    position: relative;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .events .span {
+    font-weight: 700;
+  }
+  
+  .events .text-wrapper-2 {
+    font-family: "Arial-Regular", Helvetica;
+  }
+  
+  .events .image {
+    position: absolute;
+    width: 324px;
+    height: 262px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .events .card-wrapper {
+    position: absolute;
+    width: 656px;
+    height: 262px;
+    top: 481px;
+    left: 75px;
+  }
+  
+  .events .text-wrapper-3 {
+    width: 296px;
+    height: 59px;
+    font-family: "Arial-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .events .div-wrapper {
+    position: absolute;
+    width: 656px;
+    height: 262px;
+    top: 763px;
+    left: 73px;
+  }
+  
+  .events .text-wrapper-4 {
+    width: 278px;
+    height: 59px;
+    font-family: "Arial-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .events .nav-bar {
+    position: absolute;
+    width: 656px;
+    height: 94px;
+    top: 55px;
+    left: 82px;
+  }
+  
+  .events .frontpage {
+    position: absolute;
+    width: 27px;
+    height: 1px;
+    top: 3594px;
+    left: -4306px;
+  }
+  
+  .events .language-button {
+    position: absolute;
+    width: 132px;
+    height: 57px;
+    top: 20px;
+    left: 528px;
+  }
+  
+  .events .overlap-group-3 {
+    position: relative;
+    width: 130px;
+    height: 69px;
+    top: -6px;
+    left: -2px;
+  }
+  
+  .events .langbutton {
+    position: absolute;
+    width: 128px;
+    height: 57px;
+    top: 6px;
+    left: 2px;
+  }
+  
+  .events .img {
+    position: absolute;
+    width: 82px;
+    height: 69px;
+    top: 0;
+    left: 0;
+  }
+  
+  .events .EN-frontpage {
+    position: absolute;
+    width: 29px;
+    top: 19px;
+    left: 22px;
+    text-shadow: 0px 4px 8px #00000040;
+    font-family: "Calibri-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .events .DK-frontpage {
+    position: absolute;
+    width: 32px;
+    top: 19px;
+    left: 80px;
+    text-shadow: 0px 4px 8px #00000040;
+    font-family: "Calibri-Bold", Helvetica;
+    font-weight: 700;
+    color: #132a7f;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .events .logo {
+    display: block;
+    position: absolute;
+    width: 124px;
+    height: 102px;
+    object-fit: cover;
+    top: 55px;
+    left: 380px;
+  }
+  
+  .events .back-button {
+    position: absolute;
+    width: 53px;
+    height: 52px;
+    top: 74px;
+    left: 82PX;
+  }
